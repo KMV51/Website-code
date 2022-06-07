@@ -1,0 +1,33 @@
+<div class="login-container">
+    <div class="header">
+        <div class="header-title">Mockup to HTML</div>
+        <div class="header-close-button"></div>
+    </div>
+    <div>
+        <div class="login-form">
+            <div class="form-title">
+                Lorem Ipsum Bro
+            </div>
+            <div class="form-group">
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            </div>
+            <button class="btn btn-primary btn-block">Sign In</button>
+        </form>
+        <button class="btn btn-detault">Create an Account</button>
+    </div>
+    <div class="footer">
+        <div class="forgot-password">
+            <a href="#">Forgot Password</a>
+        </div>
+        <div class="settings-button">
+          <span class="fa fa-cog"></span>
+        </div>
+      </div>
+      <div class="footer">
+          <div class="forgot-password"></div>
+      </div>
+      <div class="settings-button"></div>
+</div>
